@@ -1,0 +1,5 @@
+1.  HTML- IT is a hyper text markup lamguage which is used to build the structure of websites.It is part of content a website.  
+2.  CSS- It is language which is used in designed the websites like how the website looks and locations of all the element ,buttons,etc.It allow the website to design the content, format, colour,etc.
+3.  Differnce between is frontend and backend is that the frontend developer manage all the visually appeared things in websites like content which we used with the help of HTML and backend    	is like how the function react when the user get the command like how it is function is worked by backend developer.
+4.  JAvascipt is  a programming language which is used in website from client side as well as server side like it allow to website interactive.It allow the functiooning part of the website. 
+5.  A responsive web design is like a which works efficiently in all devices with proper functioning.It is like a proper content, design and to efficient the work for which purposes has it to be created.
